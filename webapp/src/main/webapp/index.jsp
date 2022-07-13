@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> CONGRACTULATIONS MS SUMASASI POLUKONA FOR PERMINENT TO ADP COMPANY </h1>
 
   
 </form>
